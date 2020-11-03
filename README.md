@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariobudiharjo" alt="hariobudiharjo" /></a> </p>
 
-- 🔭 I’m currently iOS Engineer at [PT Amar Bank Indonesia Tbk](https://amarbank.co.id)
+- 🔭 I’m currently iOS Engineer at [PT Bank Amar Indonesia Tbk](https://amarbank.co.id)
 
 - 📝 I regulary write articles on [https://learnmake.app](https://learnmake.app)
 
